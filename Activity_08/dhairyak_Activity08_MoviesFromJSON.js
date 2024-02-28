@@ -1,3 +1,9 @@
+/**
+    Author: Dhairya Kachalia
+    NetId : dhairyak@iastate.edu
+    Date  : 27 February, 2024 
+*/
+
 fetch("./dhairyak_Activity08_MoviesFromJSON.json")
     .then(response => response.json())
     .then(myMovies => loadMovies(myMovies));

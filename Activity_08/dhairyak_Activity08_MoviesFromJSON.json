@@ -23,6 +23,18 @@
             "title": "Mulan",
             "year": 1998,
             "url": "https://freepngimg.com/thumb/disney/113364-picture-mulan-disney-free-photo.png"
+        },
+        {
+            "movieId": "12345",
+            "title": "Harry Potter",
+            "year": 2001,
+            "url": "https://freepngimg.com/thumb/harry_potter/2-2-harry-potter-transparent.png"
+        },
+        {
+            "movieId": "34634",
+            "title": "X-Men",
+            "year": 2000,
+            "url": "https://freepngimg.com/thumb/xmen/26594-8-x-men-photo.png"
         }
     ]
 }
